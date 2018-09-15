@@ -12,7 +12,7 @@ python3 test.py
 
 Сборка докера:
 
-sudo docker build docker_name .
+sudo docker build -t docker_name .
 
 Запуск сервера в докере:
 
